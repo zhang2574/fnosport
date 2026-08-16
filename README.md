@@ -12,7 +12,7 @@
 
 ## 安装
 
-1. 下载 `portview.fpk`
+1. 下载 `portview.fpk` https://github.com/zhang2574/fnosport/blob/main/portview.fpk
 2. 飞牛桌面 → 应用中心 → 右上角「设置」→「手动安装应用」
 3. 选择 fpk 文件确认安装，安装后桌面出现「端口可视化管理」图标
 
