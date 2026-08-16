@@ -8,7 +8,7 @@
 - 协议标签自动探测（HTTP / HTTPS 可用性检测），可用协议一键跳转
 - 端口置顶：常用端口 📌 置顶到顶部区域，状态持久化保存
 - 端口框内自定义标注文字，点击整框可跳转
-- 多 Web 地址配置（默认 `http://192.168.1.244`）
+- 多 Web 地址配置（默认 `http://192.168.1.XX`）
 
 ## 安装
 
@@ -20,3 +20,5 @@
 
 - 服务端口：18100（host 网络 + pid host，直接读取 `/proc`）
 - 默认访问：`http://<NAS-IP>:18100`
+
+<img width="2560" height="1271" alt="image" src="https://github.com/user-attachments/assets/48efb4da-529f-48a3-bfcf-af914afc360b" />
