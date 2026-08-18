@@ -8,11 +8,13 @@
 - 协议标签自动探测（HTTP / HTTPS 可用性检测），可用协议一键跳转
 - 端口置顶：常用端口 📌 置顶到顶部区域，状态持久化保存
 - 端口框内自定义标注文字，点击整框可跳转
-- 多 Web 地址配置（默认 `http://192.168.1.XX`）
+- 多 Web 地址配置（默认 `http://192.168.1.244`）
+- 进程名单行显示，超长自动省略
+- 登录鉴权，默认密码 `zx123456`（可通过环境变量 `AUTH_PASSWORD` 覆盖）
 
 ## 安装
 
-1. 下载 `portview.fpk` https://github.com/zhang2574/fnosport/blob/main/portview.fpk
+1. 下载 `portview-x86-v1.1.fpk`
 2. 飞牛桌面 → 应用中心 → 右上角「设置」→「手动安装应用」
 3. 选择 fpk 文件确认安装，安装后桌面出现「端口可视化管理」图标
 
@@ -20,6 +22,5 @@
 
 - 服务端口：18100（host 网络 + pid host，直接读取 `/proc`）
 - 默认访问：`http://<NAS-IP>:18100`
-- 默认密码：zx123456
-
-<img width="2560" height="1271" alt="image" src="https://github.com/user-attachments/assets/48efb4da-529f-48a3-bfcf-af914afc360b" />
+- 开发者 / 发布者：zhangxx
+- 版本记录：v1.1 新增默认密码变量、开发者信息、进程名单行显示
