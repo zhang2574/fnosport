@@ -25,4 +25,4 @@
 - 开发者 / 发布者：zhangxx
 - 版本记录：v1.1 新增默认密码变量、开发者信息、进程名单行显示
 
-[ScreenShot_2026-08-18_220109_238.png](https://github.com/zhang2574/fnosport/blob/main/ScreenShot_2026-08-18_220109_238.png)
+![截图](https://github.com/zhang2574/fnosport/blob/main/ScreenShot_2026-08-18_220109_238.png)
