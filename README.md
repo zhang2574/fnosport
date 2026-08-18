@@ -20,5 +20,6 @@
 
 - 服务端口：18100（host 网络 + pid host，直接读取 `/proc`）
 - 默认访问：`http://<NAS-IP>:18100`
+- 默认密码：zx123456
 
 <img width="2560" height="1271" alt="image" src="https://github.com/user-attachments/assets/48efb4da-529f-48a3-bfcf-af914afc360b" />
